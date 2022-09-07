@@ -1,0 +1,1 @@
+De waarde die aan de callback van `then` wordt meegegeven is te vergelijken met een return-waarde van een synchrone functie. `readFileP` 'retourneert' de inhoud van de file die je opent, terwijl `setTimeoutP` geen waarde oplevert.
