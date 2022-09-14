@@ -1,0 +1,10 @@
+1. A F B D E C
+2. A C D
+3. A E F
+4. A C D F E B
+5. A D B E H F G
+6. A D E H B C F G
+7. sync: A C D
+   async: error: exception wordt niet opgevangen
+8. zonder next op 16: A B C
+   met next op 16: A B C D E, daarna error omdat res.send 2 keer aangeroepen is.
