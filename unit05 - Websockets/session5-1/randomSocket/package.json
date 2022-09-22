@@ -1,0 +1,10 @@
+{
+    "name": "random-socket",
+    "private": true,
+    "version": "0.9.0",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.13.3",
+        "ws": "^7.1.2"
+    }
+}
