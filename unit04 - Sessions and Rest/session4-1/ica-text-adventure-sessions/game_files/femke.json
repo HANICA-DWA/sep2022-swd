@@ -1,0 +1,1 @@
+{"player":{"name":"femke","location":"town","items":[]},"map":{"town":{"description":"a town","exits":["forest","mountain"]},"mountain":{"description":"a mountain range","exits":["town"]},"forest":{"description":"a forest","exits":["town"]}}}

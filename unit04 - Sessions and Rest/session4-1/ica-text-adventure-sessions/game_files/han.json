@@ -1,0 +1,1 @@
+{"player":{"name":"han","location":"mountain","items":[]},"map":{"town":{"description":"a town","exits":["forest","mountain"]},"forest":{"description":"a forest","exits":["town"]},"mountain":{"description":"a mountain range","exits":["town"]}}}
