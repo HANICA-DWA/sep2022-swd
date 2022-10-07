@@ -1,0 +1,54 @@
+html, body{
+  height: 100%;
+}
+body {
+			background-image: url(https://source.unsplash.com/random);
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: rgba(0,0,0,0.6);
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-main {
+  border: 1px solid #333;
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  margin: 40px;
+  margin-top: 70px;
+  padding: 10px;
+}
+
+#messages {
+  text-align: left;
+  font-size: normal;
+  margin: 40px;
+}
+
+button {
+  padding: 5px;
+  background-color: #ddd;
+  border: 1px solid #999;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #ccc;
+}

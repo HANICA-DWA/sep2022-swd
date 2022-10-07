@@ -10,3 +10,7 @@ _september, 2022_
 - [04 - Sessions and Rest](unit04%20-%20Sessions%20and%20Rest)
 - [05 - Websockets](unit05%20-%20Websockets)
 - [06 - MongoDB and Mongoose](unit06%20-%20MongoDB%20and%20Mongoose)
+
+## Final Assignment
+
+- [Quizzer](quizzer)
